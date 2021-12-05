@@ -13,3 +13,9 @@ A portfolio of my research/example data science projects
 - Participants read an identical TIMES news article under the headline of either CNN (liberal) or Fox News (conservative) and then answered a series of reading comprehension questions. The study hypothesized that participants would have different times spent reading and scores based on which article they read, race/gender demographics, and political party/ideology due to partisan selective exposure. 
 - Participants (n=74) showed variation in different demographics, with Female and Black participants showing much more varied reading comprehension scores and Non-Caucasians spent much more varied amounts of time when reading Fox News (alpha = .004,.025, and .049).
 - Selected to present in the BCLA Undergraduate Symposium and currently undergoing submission for publication.
+
+## [Project 3: Classification/Logistic Regression: Credit Card Approval and Expectations of Payment](https://github.com/TheModernDayRenaissance/Credit_Card_Approval_Classification_Logistic_Regression)
+- An example classification/logistic regression project determining whether people with certain flags will pay their credit cards on time. (Note: application record csv file does not fit within the 25mb upload limit on Github)
+- Using Kaggle data from real credit card approvals and payment histories, a logistic regression model/classifier was created through merging and cleaning tables of data
+- Utilized one hot encoding of categorical variables such as income type to integrate nominal and ordinal variables into the comprehensive model
+- Model has a 98.8% accuracy with no false negatives and an F1 score of .9885
