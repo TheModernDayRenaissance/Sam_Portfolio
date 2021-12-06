@@ -7,6 +7,8 @@ A portfolio of my research/example data science projects
 - Won the Tom Owen Award for Statistics for Mann Whitney Testing combined with Hypothesis t Testing for different categories and clusters
 - Won the Outstanding Award for Research in Psychology from the American Psychology Association for the study's findings and paper
 
+![](/images/Ethical%20Box%20Plot%20(n%3D60%20V1).png)
+
 ## [Project 2: Experiment and EDA/Hypothesis T Testing and Levene's Test for Equality of Variances: The Effects of Current Political News Source on Reading Comprehension](https://docs.google.com/document/d/1WDKzWzg_eCTq72nmVNAMj0pj7OsN_0WW873r70jkcnA/edit?usp=sharing)
 [Presentation](https://docs.google.com/presentation/d/1cMYvNmzmD0HNCwkUXIO6fUQ2fkO0-mO4xq_kzETDZ0c/edit?usp=sharing)
 - The world's first experimental study to see how the headline of a news article affects reading comprehension, political perceptions, and engagement on that article. Conducted through gathering data at Loyola Marymount University.
@@ -19,7 +21,7 @@ A portfolio of my research/example data science projects
 - Using Kaggle data from real membership data, a K-Means++ clustering model was created based on variables collected on customers
 - By grouping customers into three clusters, discernable groupings based on the variables of age, income, and spending score were identified. Customers in the specified groupings could be targeted for further promotions and marketing based on their ability to spend and demographics
 
-![](https://github.com/TheModernDayRenaissance/Mall_Customer_Segmentation_KMeans_Clustering/blob/main/mall_customer_clusters_3dplot.png)
+![](/images/mall_customer_clusters_3dplot.png)
 
 ## [Project 4: Classification/Logistic Regression: Credit Card Approval and Expectations of Payment](https://github.com/TheModernDayRenaissance/Credit_Card_Approval_Classification_Logistic_Regression)
 - An example classification/logistic regression project determining whether people with certain flags will pay their credit cards on time. (Note: application record csv file does not fit within the 25mb upload limit on Github)
