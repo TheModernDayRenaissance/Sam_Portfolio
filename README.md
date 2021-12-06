@@ -25,3 +25,10 @@ A portfolio of my research/example data science projects
 - Using Kaggle data from real tests of quality, a linear regression model and neural network were created based on eleven numerical variables
 - Linear regression model has a testing score of .434 or 43.4% 
 - A neural network was thus created to improve the overall accuracy of a wine quality regression model based on the eleven variables 
+
+## [Project 5: K-Means Clustering: Mall Customer Segmentation](https://github.com/TheModernDayRenaissance/Mall_Customer_Segmentation_KMeans_Clustering)
+- An example k-means clustering project clustering customers with a membership card for further marketing/outreach based on variables like income and age
+- Using Kaggle data from real membership data, a K-Means++ clustering model was created based on variables collected on customers
+- By grouping customers into three clusters, discernable groupings based on the variables of age, income, and spending score were identified. Customers in the specified groupings could be targeted for further promotions and marketing based on their ability to spend and demographics
+
+![](https://github.com/TheModernDayRenaissance/Mall_Customer_Segmentation_KMeans_Clustering/blob/main/mall_customer_clusters_3dplot.png)
