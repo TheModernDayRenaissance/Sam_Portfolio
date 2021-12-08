@@ -13,7 +13,7 @@ A portfolio of my research/example data science projects
 [Presentation](https://docs.google.com/presentation/d/1cMYvNmzmD0HNCwkUXIO6fUQ2fkO0-mO4xq_kzETDZ0c/edit?usp=sharing)
 - The world's first experimental study to see how the headline of a news article affects reading comprehension, political perceptions, and engagement on that article. Conducted through gathering data at Loyola Marymount University.
 - Participants read an identical TIMES news article under the headline of either CNN (liberal) or Fox News (conservative) and then answered a series of reading comprehension questions. The study hypothesized that participants would have different times spent reading and scores based on which article they read, race/gender demographics, and political party/ideology due to partisan selective exposure. 
-- Participants (n=74) showed variation in different demographics, with Female and Black participants showing much more varied reading comprehension scores and Non-Caucasians spent much more varied amounts of time when reading Fox News (alpha = .004,.025, and .049).
+- Participants (n=74) showed variation in different demographics, with Female and Black participants showing significantly more varied reading comprehension scores and Non-Caucasians spent much more varied amounts of time when reading Fox News (alpha = .004,.025, and .049).
 - Selected to present in the BCLA Undergraduate Symposium and currently undergoing submission for publication.
 
 ## [Project 3: K-Means Clustering: Mall Customer Segmentation](https://github.com/TheModernDayRenaissance/Mall_Customer_Segmentation_KMeans_Clustering)
