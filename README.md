@@ -35,5 +35,6 @@ A portfolio of my research/example data science projects
 - Linear regression model has a testing score of .434 or 43.4% 
 - A neural network was thus created using Keras and Tensorflow to improve the overall accuracy of a wine quality regression model based on the eleven variables, with a mean absolute error of about .537 wine quality points
 
+![](/images/Wine%20.png)
 
 
