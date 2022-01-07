@@ -1,7 +1,7 @@
 # Sam_Portfolio
 A portfolio of my research/example data science projects
 
-## [Project 1: Experiment and EDA/Hypothesis T Testing: The Effects of Cell Phone Cameras on Ethical and Cooperative Behavior](docs.google.com/document/d/12vBrPA3pSS6so_rlFqotw--Ya5rcz5i39liTVzKKMo0/edit?usp=sharing)
+## [Project 1: Experiment and EDA/Hypothesis T Testing: The Effects of Cell Phone Cameras on Ethical and Cooperative Behavior](https://docs.google.com/document/d/12vBrPA3pSS6so_rlFqotw--Ya5rcz5i39liTVzKKMo0/edit?usp=sharing)
 - The world's first experimental study on the effects of cell phone cameras on ethical and cooperative behavior. Participants completed the DOSPERT questionaire on their behaviors while filmed by a cell phone camera/not filmed by a cell phone camera. Conducted through gathering data at Oregon Institute of Technology and Point Loma University.
 - Participants (n=60) filmed by the iPhone gave significantly lower ratings on the Ethical questions from the DOSPERT (p=.0226), showing them to act more ethically when filmed in private environments; we rejected the null hypothesis
 - Won the Tom Owen Award for Statistics for Mann Whitney Testing combined with Hypothesis t Testing for different categories and clusters
